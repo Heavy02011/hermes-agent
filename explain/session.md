@@ -85,7 +85,7 @@ With the refined prompt, I produced the following artifacts:
 
 | File | Description |
 |------|-------------|
-| `explain/tutorial.md` | The main Karpathy-style tutorial (~4000 words). Covers the agent loop, tool system, learning loop, architecture, execution environments, gateway, and RL training. |
+| `explain/tutorial.md` | The main Karpathy-style tutorial. Covers the agent loop, tool system, learning loop, architecture, execution environments, gateway, and RL training. |
 | `explain/session.md` | This file. Documents the reflection → rewrite → refinement → execution process. |
 
 ### Approach Taken

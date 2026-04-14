@@ -264,7 +264,7 @@ It's a flywheel, and the codebase is designed to spin it.
 
 | If you want to... | Start here |
 |---|---|
-| Use it | `curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh \| bash` |
+| Use it | `curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash` |
 | Understand the agent loop | `run_agent.py` → `run_conversation()` |
 | Understand the tool system | `tools/registry.py` → `model_tools.py` → any `tools/*.py` |
 | Understand memory | `tools/memory_tool.py` + `agent/memory_manager.py` |
